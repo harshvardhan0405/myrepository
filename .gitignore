@@ -4,3 +4,4 @@ dist/
 *.log
 *.log
 test.py
+main.py
